@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FVision</string>
+    <string name="request_permission">需要Camera权限</string>
+    <string name="capture">拍摄</string>
+    <string name="capturing">拍摄中</string>
+    <string name="next">下一步</string>
+    <string name="debug_info">调试信息</string>
+    <string name="capture_continuously">连续拍摄</string>
+    <string name="processing">处理中</string>
+    <string name="tips">上下左右稍许移动手机，拍摄3~5张照片</string>
+</resources>
